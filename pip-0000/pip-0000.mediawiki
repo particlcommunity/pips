@@ -63,5 +63,3 @@ Partial payments shall be made at the following milestones:
 
 ==PIP Completion Reward==
 Base Reward: 500 PARTs (paid gradually per milestone reached)
-
-Contribute to the reward: Pg3Zy33sFRiL92PgLmkGeqa2ufWShWMfvN
