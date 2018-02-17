@@ -1,0 +1,38 @@
+<pre>
+PIP: 0001
+Title: PARTizan – Particl’s Appeal System - in case of MAD Escrow failure
+Author: enum4_el1sh
+Status: Active
+Created: 2018-02-17
+</pre>
+
+==Abstract==
+
+The PARTizan appeal system eliminates the counterparty risk (seller or buyer) by using profit-seeking individuals as trusted third parties to find out who failed to fulfil the contract. It is another layer of security in case of MAD- Escrow failure. 
+
+==Scope==
+Bitcoin enthusiasts are claiming that with the invention of the blockchain, financial institutions such as banks, and centralized systems in general, will become obsolete. The peer- to- peer technology, makes third- parties seen as remnants of archaic times, ditches corruption and will turn every aspect of our lives “trustless”, at least in theory.
+While this PIP won’t discuss the advantages and disadvantages of cryptocurrencies, it is indeed true that, in the end, Bitcoin is not trustless. The trust is simply distributed across a lot of different actors. The absence of a third- party is worrying when it comes to online purchases, especially on a fully- anonymous marketplace like Particl. In the case of one party acting with fraudulent intent, the current situation in crypto currencies doesn’t really offer a solution. Differences which may arise between sellers and buyers have to be independently worked out. While PayPal uses a third- party for dispute resolution, some crypto projects have come up with different workarounds.
+
+Particl’s MAD Escrow approach is a form of Nash equilibrium, in which neither party has an incentive to scam. While the theory, coming from a military background, may work in case of pre- emptive nuclear strikes, it has yet to prove its raison d'être in low- level anonymous online transactions. As discussed in this Reddit thread, especially the fraudulent seller has a lead by knowing a buyer who already lost 100% of the payment for a product, doesn’t want to lose his escrow on top of that. While this is not the only imaginable the idea of losing your money in an unfamiliar new and anonymous environment, can deter, especially non-tech savvy, newcomers. In order to increase the legitimacy of the whole Particl project an additional layer of security, in case of MAD failure, has to be implemented.
+
+That’s why I want to introduce: PARTizan (from partisan, a strong supporter of a party, cause, or person) – an appeal system in which, PARTizans (people recruited from the pool of stakers) will be randomly selected to investigate the case. If the disputing parties are unwilling or unable to settle the differences within the MAD Escrow terms, they (or also only one) can decide to use the appeal system. After filing the claim (That is just a button like >I need a PARTizan< followed by a disclaimer that there is no going back, to individual dispute settlement, from that point on) dependent on the value of the transaction, a different amount of anonymous and independent judges will be randomly selected from the pool of staking wallets to look into the case.
+
+Value of TX	  No. of PARtizans
+< 100 PART	        3
+100-1000 PART	      5
+> 1000 PART	        7
+
+The PARTizans will receive a notification that they have been selected for mediation ( “You have been selected to solve a dispute” With a disclaimer to call on honesty and to really take time to check the facts), which they in turn have to confirm with Yes or No within 24 hours, to exclude staking- only wallets on Raspberries for example and ensure a timely settlement.
+
+In the meantime, the disputing parties (buyer and seller) must upload supporting evidence to prove one is right. To give both parties more time, a certain number of days (proposed 7 or 14) have to pass before the PARTizans receive the notification.
+ 
+PARTizans will, initially, work independently (to can’t communicate with each other) to validate the supporting evidence submitted by both parties – buyers and sellers and then vote for one party and argue WHY the decision was made to outline the decision- making process of the mediator. This doesn’t have to be an essay, just a well-reasoned explanation. 
+
+Once a majority has been reached, the outcome with the explanation of every PARTizan will be sent to the disputing parties and all the PARTizans. The winning party will receive the escrow back. The losing party in turn, will lose the escrow, which will be split up among the PARTizans for compensation. Furthermore, the reputation/trust of the losing party will be decreased and, even more important, the PARTizans have to evaluate each other by looking at the argumentation. The evaluation will then influence the reputation/trust score of the PARTizan. Only accounts/wallets with a reputation > 75% (?) will be considered for future PARTizans. To decrease the likelihood that a PARTizan will just create a new wallet in case of a bad reputation, only wallets staking for more than 1 month (?) should be considered. 
+
+To summarize, the PARTizan appeal system eliminates the counterparty risk (seller or buyer) by using profit-seeking individuals as trusted third parties to find out who failed to fulfil the contract. The most significant value of this appeal system lies in the PARTizans, who are incentivized to act honestly. They will not only solve disputes between parties but as a result raise the legitimacy of the whole Particl project. 
+
+
+==Rationale==
+The most significant value of this appeal system lies in the PARTizans, who are incentivized to act honestly. They will not only solve disputes between parties but as a result raise the legitimacy of the whole Particl project. 
