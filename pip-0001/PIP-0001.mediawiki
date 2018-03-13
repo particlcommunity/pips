@@ -1,0 +1,21 @@
+<pre>
+PIP: 0001
+Title: PIP Template
+Author: Part-Linux <keepitup@mypeople.sup>
+Status: Active
+Created: 2018-03-13
+</pre>
+
+==Abstract==
+
+Proposal for modifying the inflation schedule and keeping it at a fixed 5% rate. 
+
+==Scope==
+Currently, our inflation/staking interest rate starts at 5%, but declines 1% every year until it reaches 2% at which point it will stay fixed at this value. This proposal proposes to change our scheduled inflation and staking interest rate to a fixed yearly rate of 5% and cancel the scheduled declined.
+
+==Rationale==
+* Reducing the inflation rate could potentially reduce the number of coins available for trading which is already low and a bit of a problem (that number is likely to be reduced even more once the marketplace is live, so the staking rewards put up for trading could help counter balance that supply shock issue)
+* Easier to explain and understand
+* Easier to budget and plan ahead
+* More profitable for stakers over a long period of time
+* Gives stakers more funds to passively donate and support the project once we get a "side staking"-like staking mechanism later on (https://pbs.twimg.com/media/C-6287aXkAAGrMY.jpg)
