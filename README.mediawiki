@@ -14,7 +14,7 @@ We intend PIPs to be the primary mechanisms for proposing new features, for coll
 |-
 |[[./pip-0000/pip-0000.mediawiki|0000]]||PIP Template||Active
 |-
-|[[./pip-0001/pip-0001.mediawiki|0001]]||Inflation & Staking Interest Rate Modification||Active
+|[[./pip-0001/PIP-0001.mediawiki|0001]]||Inflation & Staking Interest Rate Modification||Active
 |}
 
 ==Acknowledgements==
